@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dawid.</h1>
-<h3 align="center">I enjoy programming, creating Web applications, and listening to music (mostly rap). I am currently developing my skills in Javascript, React, Next.js, Redux, and Typescript.</h3>
+<h3 align="center">
+🔥 I'm an aspiring self-taught front-end developer who enjoys programming, creating web applications, and learning new things 🔥
+ <br />
+💡 I am currently developing my skills in Javascript, Typescript, React, and Next.js 💡
+</h3>
 
 👨‍💻 All of my projects are available at [https://xmetanerx.netlify.app](https://xmetanerx.netlify.app)
 
