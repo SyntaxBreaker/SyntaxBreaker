@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dawid.</h1>
-<h2 align="center">
+<h2>
 🔥 I'm a self-taught front-end developer who enjoys creating web applications. I'm motivated to improve my skills and am open to suggestions and constructive feedback. As a result, I'm constantly seeking new challenges and opportunities to learn and develop. 🔥
 </h2>
 
-<h3>👨‍💻 All of my projects are available at [https://xmetanerx.netlify.app](https://xmetanerx.netlify.app)</h3>
+👨‍💻 All of my projects are available at [xmetanerx.netlify.app](https://xmetanerx.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
