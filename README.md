@@ -1,7 +1,7 @@
 <h1> Hello, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 <p>I'm a self-taught front-end developer who enjoys creating web applications. I'm motivated to improve my skills and am open to suggestions and constructive feedback. As a result, I'm constantly seeking new challenges and opportunities to learn and develop.</p>
 
-👨‍💻 All of my projects are available at [xmetanerx.netlify.app](https://xmetanerx.netlify.app)
+👨‍💻 All of my projects are available at [syntaxbreaker.netlify.app](https://syntaxbreaker.netlify.app)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.com/xMetaneRx" target="_blank">
+<a href="https://codepen.io/SyntaxBreaker" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" height="40" />
 </a>  
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmetanerx&show_icons=true&locale=en&layout=compact" alt="xmetanerx" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmetanerx&" alt="xmetanerx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxBreaker&show_icons=true&locale=en&layout=compact" alt="SyntaxBreaker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxBreaker&" alt="SyntaxBreaker" /></p>
