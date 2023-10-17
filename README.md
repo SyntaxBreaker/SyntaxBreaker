@@ -1,8 +1,6 @@
 <h1> Hello, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 <p>I'm a self-taught front-end developer who enjoys creating web applications, is motivated to improve my skills, and is open to suggestions and constructive feedback. Consequently, I constantly seek new challenges and opportunities to learn and develop.</p>
 
-👨‍💻 All of my projects are available at [syntaxbreaker.netlify.app](https://syntaxbreaker.netlify.app)
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
