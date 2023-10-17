@@ -1,5 +1,5 @@
 <h1> Hello, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
-<p>I'm a self-taught front-end developer who enjoys creating web applications. I'm motivated to improve my skills and am open to suggestions and constructive feedback. As a result, I'm constantly seeking new challenges and opportunities to learn and develop.</p>
+<p>I'm a self-taught front-end developer who enjoys creating web applications, is motivated to improve my skills, and is open to suggestions and constructive feedback. Consequently, I constantly seek new challenges and opportunities to learn and develop.</p>
 
 👨‍💻 All of my projects are available at [syntaxbreaker.netlify.app](https://syntaxbreaker.netlify.app)
 
