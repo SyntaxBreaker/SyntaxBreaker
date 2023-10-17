@@ -1,4 +1,4 @@
-<h1> Hello, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
+<h1>Hello there! 👋</h1>
 <p>I'm a self-taught front-end developer who enjoys creating web applications, is motivated to improve my skills, and is open to suggestions and constructive feedback. Consequently, I constantly seek new challenges and opportunities to learn and develop.</p>
 
 <h3 align="left">Languages and Tools:</h3>
