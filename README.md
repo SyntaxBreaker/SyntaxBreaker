@@ -1,5 +1,5 @@
 <h1>Hello there! 👋</h1>
-<p>I'm a self-taught front-end developer who enjoys creating web applications, is motivated to improve my skills, and is open to suggestions and constructive feedback. Consequently, I constantly seek new challenges and opportunities to learn and develop.</p>
+<p>I'm a self-taught front-end developer who enjoys creating digital products and solutions. Driven by a strong motivation to enhance my skills, I remain open to valuable suggestions and constructive feedback. Therefore, I constantly seek new challenges and opportunities to learn and develop.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
