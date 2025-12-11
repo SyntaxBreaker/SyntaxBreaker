@@ -46,8 +46,10 @@
 
 
 <h3 align="center">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxBreaker&show_icons=true&locale=en&layout=compact" alt="SyntaxBreaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxBreaker&" alt="SyntaxBreaker" /></p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SyntaxBreaker&theme=default&hide_border=false" alt="Streak Stats" />
+</picture>
+</p>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
