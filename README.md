@@ -10,8 +10,8 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
-<p align="left">
+<h3 align="center">🛠 Languages and Tools</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
@@ -45,12 +45,12 @@
 </p>
 
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="center">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxBreaker&show_icons=true&locale=en&layout=compact" alt="SyntaxBreaker" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxBreaker&" alt="SyntaxBreaker" /></p>
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
   <a href="https://codepen.io/SyntaxBreaker" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
   </a>
